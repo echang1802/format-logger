@@ -32,7 +32,11 @@ if __name__ == "__main__":
 Output: 
 
 logger_example | main | 2024-10-09 17:19:18.563839 | INFO | Starting function main at 2024-10-09 17:19:18.563839
+
 logger_example | foo_function | 2024-10-09 17:19:18.563839 | INFO | Starting function foo_function at 2024-10-09 17:19:18.563839
+
 logger_example | foo_function | 2024-10-09 17:19:18.563839 | INFO | Hello World!
+
 logger_example | foo_function | 2024-10-09 17:19:19.564759 | INFO | Function foo_function ended - time 1.00092 Seconds
+
 logger_example | main | 2024-10-09 17:19:19.564759 | INFO | Function main ended - time 1.00092 Seconds
